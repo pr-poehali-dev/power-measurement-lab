@@ -116,7 +116,7 @@ export default function Index() {
                 <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Icon name="Award" className="text-white" size={32} />
                 </div>
-                <h3 className="text-xl font-semibold text-slate-800 mb-2">50+ лет опыта</h3>
+                <h3 className="text-xl font-semibold text-slate-800 mb-2">30+ лет опыта</h3>
                 <p className="text-slate-600">Полувековая история инноваций и разработок</p>
               </div>
               
