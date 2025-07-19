@@ -79,7 +79,7 @@ export default function Index() {
       <section className="py-20 px-4">
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
-            <h1 className="md:text-6xl text-slate-800 leading-tight text-5xl font-medium px-[35px] py-0 mx-0 my-[5px] text-center">НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ
+            <h1 className="md:text-6xl text-slate-800 leading-tight py-0 mx-0 my-[5px] text-center px-[27px] font-semibold text-5xl">НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ
 ЭЛЕКТРОИЗМЕРИТЕЛЬНЫХ ПРИБОРОВ</h1>
             <p className="text-xl text-slate-600 mb-10 leading-relaxed">
               Ведущий научно-исследовательский институт по разработке и производству 
